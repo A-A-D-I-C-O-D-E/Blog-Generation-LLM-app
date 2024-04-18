@@ -1,0 +1,6 @@
+1. sentence-transformers
+2. uvicorn
+3. ctransformers
+4. langchain
+5. pyhton-box
+6. stramlit
